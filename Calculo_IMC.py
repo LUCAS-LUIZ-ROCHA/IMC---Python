@@ -12,7 +12,7 @@ while True:
         peso= float(eval(input('Digite seu peso atual (Kg):')))
         break
     except:
-        print('Digite um peso  invalido.')
+        print('Digite um peso  valido.')
         
 
 while True:
@@ -20,7 +20,7 @@ while True:
         altura= float(eval(input('Digite sua altura:')))
         break
     except:
-        print('Digite uma altura  invalido.')
+        print('Digite uma altura  valida.')
 
 
 ################## Processamento.
